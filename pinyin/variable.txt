@@ -1,0 +1,2 @@
+&bonus=20
+&totalqset=3
